@@ -1,0 +1,62 @@
+<game>
+	<player>
+		<lvl1 xval="41.45" yval="383" />
+		<lvl2 xval="41.45" yval="383" />
+		<lvl3 xval="41.45" yval="383" />
+		<lvl4 xval="41.45" yval="383" />
+		<lvl5 xval="41.45" yval="383" />
+		<lvl6 xval="41.45" yval="383" />
+		<lvl7 xval="41.45" yval="383" />
+		<lvl8 xval="41.45" yval="383" />
+		<lvl9 xval="255.45" yval="383" />
+		<lvl10 xval="15.5" yval="383" />
+		<lvl11 xval="41.45" yval="383" />
+		<lvl12 xval="41.45" yval="383" />
+		<lvl13 xval="41.45" yval="383" />
+		<lvl14 xval="41.45" yval="383" />
+		<lvl15 xval="41.45" yval="383" />
+	</player>
+	
+	<redBox>
+		<lvl1 xval="604.45" yval="245.5" />
+		<lvl2 xval="604.45" yval="245.5" />
+		<lvl3 xval="604.45" yval="245.5" />
+		<lvl4 xval="128.3" yval="386.75" />
+		<lvl5 xval="466.45" yval="189.5" />
+		<lvl6 xval="106.3" yval="245.5" />
+		<lvl7 xval="430.45" yval="386.95" />
+		<lvl8 xval="604.45" yval="245.5" />
+		<lvl9 xval="604.45" yval="245.5" />
+		<lvl10 xval="604.45" yval="245.5" />
+		<lvl11 xval="105.55" yval="383" />
+		<lvl12 xval="616.5" yval="185" />
+		<lvl13 xval="616.5" yval="185" />
+		<lvl14 xval="616.5" yval="185" />
+		<lvl15 xval="616.5" yval="383" />
+	</redBox>
+	
+	<blueBox>
+		<lvl12 xval="108.5" yval="383" />
+		<lvl13 xval="108.5" yval="383" />
+		<lvl14 xval="600" yval="200" />
+		<lvl15 xval="600" yval="200" />
+	</blueBox>
+	
+	<goal>
+		<lvl1 xval="488.55" yval="383" />
+		<lvl2 xval="488.55" yval="383" />
+		<lvl3 xval="504.55" yval="108.75" />
+		<lvl4 xval="488.55" yval="383" />
+		<lvl5 xval="48.6" yval="203" />
+		<lvl6 xval="504.55" yval="108.75" />
+		<lvl7 xval="507.55" yval="82" />
+		<lvl8 xval="488.55" yval="383" />
+		<lvl9 xval="439.55" yval="383" />
+		<lvl10 xval="494.55" yval="383" />
+		<lvl11 xval="494.55" yval="383" />
+		<lvl12 xval="507.55" yval="383" />
+		<lvl13 xval="507.55" yval="383" />
+		<lvl14 xval="507.55" yval="383" />
+		<lvl15 xval="507.55" yval="383" />
+	</goal>
+</game>
